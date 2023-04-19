@@ -23,7 +23,8 @@ const nforne = {
     "3": Toronto Python
   },
 
- challenge: "I am always brewing with some code cook up. You're welcome to join the party!!!"
+ challenge: "I am always brewing with some code cook up."
+            "You're welcome to join the party!!!"
 
 }
 
