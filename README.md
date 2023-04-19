@@ -10,18 +10,23 @@
 ### A little more about me...  
 
 ```javascript
+
 const nforne = {
-  "-------": | : "-------------"
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Kubernetes],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Redux, Node, Storybook,
+         Styled-Components, Jest, Docker, Kubernetes],
+  architecture: ["microservices", "event-driven", 
+                  "design system pattern"],
   techCommunities: {
     "1": Lighthouse Labs,
     "2": TorontoJS,
     "3": Toronto Python
   },
+
  challenge: "I am always brewing with some code cook up. You're welcome to join the party!!!"
+
 }
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
