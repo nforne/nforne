@@ -14,10 +14,13 @@
 const nforne = {
   
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+
   tools: [React, Redux, Node, Storybook,
          Styled-Components, Jest, Docker, Kubernetes],
+
   architecture: ["microservices", "event-driven", 
                   "design system pattern"],
+                  
   techCommunities: {
     "1": Lighthouse Labs,
     "2": TorontoJS,
