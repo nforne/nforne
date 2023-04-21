@@ -4,7 +4,7 @@
 <br/>Developer Consultant at Q2
 
 [![Linkedin: nforne](https://img.shields.io/badge/-nforne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/martin-nforne-aa1506208)
-[![GitHub Thaiane](https://img.shields.io/github/followers/nforne?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub nforne](https://img.shields.io/github/followers/nforne?label=follow&style=social)](https://github.com/nforne)
 
 
 ### A little more about me...  
